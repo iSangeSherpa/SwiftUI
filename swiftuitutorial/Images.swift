@@ -11,7 +11,7 @@ struct Images: View {
     var body: some View {
         Image("background")
             .resizable()
-            .aspectRatio(contentMode: .fit)
+            .scaledToFit()
             .frame(width: 300, height: 300)
     }
 }
