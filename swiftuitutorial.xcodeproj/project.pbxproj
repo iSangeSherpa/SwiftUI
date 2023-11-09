@@ -14,6 +14,7 @@
 		5006FB392AF8D8AB0068E4B7 /* Icons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5006FB382AF8D8AB0068E4B7 /* Icons.swift */; };
 		5006FB3B2AF8DFE40068E4B7 /* Images.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5006FB3A2AF8DFE40068E4B7 /* Images.swift */; };
 		5054C2C62AFCCAB8001A2CDD /* TableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5054C2C52AFCCAB8001A2CDD /* TableView.swift */; };
+		5054C2C82AFCE515001A2CDD /* Stacksss.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5054C2C72AFCE515001A2CDD /* Stacksss.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		5006FB382AF8D8AB0068E4B7 /* Icons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Icons.swift; sourceTree = "<group>"; };
 		5006FB3A2AF8DFE40068E4B7 /* Images.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Images.swift; sourceTree = "<group>"; };
 		5054C2C52AFCCAB8001A2CDD /* TableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableView.swift; sourceTree = "<group>"; };
+		5054C2C72AFCE515001A2CDD /* Stacksss.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stacksss.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				5006FB382AF8D8AB0068E4B7 /* Icons.swift */,
 				5006FB3A2AF8DFE40068E4B7 /* Images.swift */,
 				5054C2C52AFCCAB8001A2CDD /* TableView.swift */,
+				5054C2C72AFCE515001A2CDD /* Stacksss.swift */,
 				5006FB2E2AF8D2AF0068E4B7 /* Assets.xcassets */,
 				5006FB302AF8D2AF0068E4B7 /* Preview Content */,
 			);
@@ -146,6 +149,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5054C2C82AFCE515001A2CDD /* Stacksss.swift in Sources */,
 				5006FB2D2AF8D2AC0068E4B7 /* ContentView.swift in Sources */,
 				5054C2C62AFCCAB8001A2CDD /* TableView.swift in Sources */,
 				5006FB3B2AF8DFE40068E4B7 /* Images.swift in Sources */,
